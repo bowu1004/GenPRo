@@ -1,24 +1,20 @@
 # GenPRo
 
 ## Introduction
-
-GenPRo is a project dedicated to making General Purpose Robots accessible to everyone. We believe that the future is one where robots are not just tools for industry, but integral parts of our daily lives. Whether it's assisting with household chores, providing companionship, or aiding in professional tasks, GenPRo aims to create versatile robots that can be adapted to a wide range of needs.
+GenPRo is a project dedicated to making General Purpose Robots(GenPRo) accessible to everyone. We believe that the future is one where robots are not just tools for industry, but integral parts of our daily lives. Whether it's assisting with household chores, providing companionship, or aiding in professional tasks, GenPRo aims to create versatile embodied-AI robots that can be adapted to a wide range of needs.
 
 ## Our Vision
-
-Our vision is a world where everyone can benefit from the capabilities of General Purpose Robots. We strive to break down barriers to entry, making it easy for developers, hobbyists, and everyday users to interact with and utilize robotic technology.
+Our vision is a world where everyone can benefit from the capabilities of General Purpose Robots(GenPRo). We strive to break down barriers to entry, making it easy for developers, hobbyists, and everyday users to interact with and utilize robotic technology.
 
 ## Key Features
-
-- **Modularity**: GenPRo robots are designed with modularity in mind. This means you can easily customize and upgrade components to suit your specific needs.
 - **Open Source**: We believe in the power of community. That's why GenPRo is open source, allowing anyone to contribute, modify, and improve the robots.
 - **User-Friendly**: Whether you're a seasoned developer or a beginner, GenPRo is designed to be easy to use. Our intuitive interfaces and comprehensive documentation make it accessible to all.
 - **Versatility**: GenPRo robots can be programmed for a variety of tasks, from simple automation to complex problem-solving. The possibilities are limited only by your imagination.
+- **Modularity**: GenPRo robots are designed with modularity in mind. This means you can easily customize and upgrade components to suit your specific needs.
 
 ## Getting Started
 
 ### Hardware Requirements
-
 To get started with GenPRo, you'll need the following hardware components:
 
 - **Main Control Board**: This is the brain of the robot, responsible for processing and executing commands.
@@ -56,24 +52,19 @@ To get started with GenPRo, you'll need the following hardware components:
   - `OpenCV`
 
 ## Documentation
-
 For detailed instructions on setting up, programming, and using your GenPRo robot, please refer to our [Documentation](https://genpro.readthedocs.io/). This comprehensive guide covers everything from hardware assembly to advanced programming techniques.
 
 ## Community
-
 We have an active community of developers, hobbyists, and enthusiasts who are always ready to help. Join our [Discord Server](https://discord.gg/genpro) to ask questions, share your projects, and collaborate with others.
 
 ## Contributing
-
 We welcome contributions from the community! Whether you're fixing bugs, adding new features, or improving documentation, every contribution helps make GenPRo better. Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
 
 ## License
-
 GenPRo is licensed under the [MIT License](LICENSE). This means you are free to use, modify, and distribute the software and hardware designs, provided you include the original license and copyright notice.
 
 ## Contact
-
-For any questions or inquiries, please contact us at [contact@genpro.org](mailto:contact@genpro.org).
+For any questions or inquiries, please contact us at [TBD](TBD).
 
 ---
 
