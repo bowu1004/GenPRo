@@ -1,7 +1,7 @@
-# GenPRo
+# GenPRo: General Purpose Robot
 
 ## Introduction
-GenPRo is a project dedicated to making General Purpose Robots(GenPRo) accessible to everyone. We believe that the future is one where robots are not just tools for industry, but integral parts of our daily lives. Whether it's assisting with household chores, providing companionship, or aiding in professional tasks, GenPRo aims to create versatile embodied-AI robots that can be adapted to a wide range of needs.
+GenPRo is a project dedicated to making General Purpose Robots (GenPRo) accessible to everyone. We believe that the future is one where robots are not just tools for industry, but integral parts of our daily lives. Whether it's assisting with household chores, providing companionship, or aiding in professional tasks, GenPRo aims to create versatile embodied-AI robots that can be adapted to a wide range of needs.
 
 ## Our Vision
 Our vision is a world where everyone can benefit from the capabilities of General Purpose Robots(GenPRo). We strive to break down barriers to entry, making it easy for developers, hobbyists, and everyday users to interact with and utilize robotic technology.
