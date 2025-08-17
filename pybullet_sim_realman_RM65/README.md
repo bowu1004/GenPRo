@@ -1,6 +1,6 @@
 # RM65机械臂仿真环境
 
-基于PyBullet的RM65机械臂仿真环境，集成了强化学习（SAC算法）和传统运动学控制方法。
+基于PyBullet的RM65机械臂仿真环境，集成了强化学习（SAC算法）和传统运动学控制方法。(Additional doc: 仿真环境说明_Chinese.pdf in the same folder.)
 
 ## 项目结构
 
